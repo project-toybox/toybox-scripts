@@ -7,11 +7,11 @@
         <img src="https://raw.githubusercontent.com/project-toybox/toybox-assets/main/images/toybox-icon.png" width="50" height="50">
         <p>Toybox Agents</p>
     </h1>
-    <p align="center">Agents for Toybox.<br>Provides logics for compressing multiple formats of games.</p>
+    <p align="center">Agents which provide logics for compressing games.</p>
     <br>
 </p>
 
-## Supported Formats
+## Supported Game Engines
  * [x] Renpy
  * [ ] RPG Maker XP
  * [ ] RPG Maker VX
