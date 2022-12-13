@@ -1,14 +1,14 @@
-<p align="right">
-<img alt="GitHub" src="https://img.shields.io/github/license/project-toybox/toybox-agents">
-</p>
-
 <p align="center">
     <h1 align="center">
         <img src="https://raw.githubusercontent.com/project-toybox/toybox-assets/main/images/toybox-icon.png" width="50" height="50">
-        <p>Toybox Agents</p>
+        <p>Toybox Scripts</p>
     </h1>
-    <p align="center">Agents which provide logics for compressing games.</p>
-    <br>
+    <p align="center"><b>A collection of scripts which provide logics for compressing games</b></p>
+    <p align="center">
+        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/project-toybox/toybox-scripts">
+        <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/project-toybox/toybox-scripts">
+        <img alt="GitHub" src="https://img.shields.io/github/license/project-toybox/toybox-scripts">
+    </p>
 </p>
 
 ## Supported Game Engines
