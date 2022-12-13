@@ -5,9 +5,9 @@
     </h1>
     <p align="center"><b>A collection of scripts which provide logics for compressing games</b></p>
     <p align="center">
-        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/project-toybox/toybox-scripts">
-        <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/project-toybox/toybox-scripts">
-        <img alt="GitHub" src="https://img.shields.io/github/license/project-toybox/toybox-scripts">
+        <a target="_blank" href="https://github.com/project-toybox/toybox-scripts/commits/main"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/project-toybox/toybox-scripts"></a>
+        <a target="_blank" href="https://github.com/project-toybox/toybox-scripts"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/project-toybox/toybox-scripts"></a>
+        <a target="_blank" href="https://github.com/project-toybox/toybox-scripts/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/project-toybox/toybox-scripts"></a>
     </p>
 </p>
 
